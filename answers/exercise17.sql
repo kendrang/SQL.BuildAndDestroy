@@ -1,0 +1,1 @@
+UPDATE person SET city = 'Edinburgh' WHERE country = 'Scotland';
